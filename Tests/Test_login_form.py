@@ -1,5 +1,5 @@
 import pytest
-from application import Application
+from PJ.application import Application
 
 __author__ = 'Max'
 
